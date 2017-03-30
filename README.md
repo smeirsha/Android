@@ -29,3 +29,4 @@ BaseAndroidApp provides a solid template for android apps, equipped with powerfu
 # License
 	Copyright 2015 Kupferwerk
 	Licensed under the Apache License, Version 2.0
+tes testetsetw
